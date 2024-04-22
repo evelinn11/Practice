@@ -1,0 +1,10 @@
+D:\UC\Semester 2\Application Development\W04 - Practice - Data Grid View\W04 - Practice - Data Grid View\bin\Debug\Practice W4.exe.config
+D:\UC\Semester 2\Application Development\W04 - Practice - Data Grid View\W04 - Practice - Data Grid View\bin\Debug\Practice W4.exe
+D:\UC\Semester 2\Application Development\W04 - Practice - Data Grid View\W04 - Practice - Data Grid View\bin\Debug\Practice W4.pdb
+D:\UC\Semester 2\Application Development\W04 - Practice - Data Grid View\W04 - Practice - Data Grid View\obj\Debug\W04 - Practice - Data Grid View.csproj.AssemblyReference.cache
+D:\UC\Semester 2\Application Development\W04 - Practice - Data Grid View\W04 - Practice - Data Grid View\obj\Debug\W04___Practice___Data_Grid_View.Form1.resources
+D:\UC\Semester 2\Application Development\W04 - Practice - Data Grid View\W04 - Practice - Data Grid View\obj\Debug\Practice_W4.Properties.Resources.resources
+D:\UC\Semester 2\Application Development\W04 - Practice - Data Grid View\W04 - Practice - Data Grid View\obj\Debug\W04 - Practice - Data Grid View.csproj.GenerateResource.cache
+D:\UC\Semester 2\Application Development\W04 - Practice - Data Grid View\W04 - Practice - Data Grid View\obj\Debug\W04 - Practice - Data Grid View.csproj.CoreCompileInputs.cache
+D:\UC\Semester 2\Application Development\W04 - Practice - Data Grid View\W04 - Practice - Data Grid View\obj\Debug\Practice W4.exe
+D:\UC\Semester 2\Application Development\W04 - Practice - Data Grid View\W04 - Practice - Data Grid View\obj\Debug\Practice W4.pdb
