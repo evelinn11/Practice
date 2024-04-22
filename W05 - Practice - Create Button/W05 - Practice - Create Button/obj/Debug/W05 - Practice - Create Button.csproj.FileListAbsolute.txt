@@ -1,0 +1,10 @@
+D:\UC\Semester 2\Application Development\W05 - Practice - Create Button\W05 - Practice - Create Button\bin\Debug\Practice Week 5.exe.config
+D:\UC\Semester 2\Application Development\W05 - Practice - Create Button\W05 - Practice - Create Button\bin\Debug\Practice Week 5.exe
+D:\UC\Semester 2\Application Development\W05 - Practice - Create Button\W05 - Practice - Create Button\bin\Debug\Practice Week 5.pdb
+D:\UC\Semester 2\Application Development\W05 - Practice - Create Button\W05 - Practice - Create Button\obj\Debug\W05 - Practice - Create Button.csproj.AssemblyReference.cache
+D:\UC\Semester 2\Application Development\W05 - Practice - Create Button\W05 - Practice - Create Button\obj\Debug\W05___Practice___Create_Button.Form1.resources
+D:\UC\Semester 2\Application Development\W05 - Practice - Create Button\W05 - Practice - Create Button\obj\Debug\Practice_Week_5.Properties.Resources.resources
+D:\UC\Semester 2\Application Development\W05 - Practice - Create Button\W05 - Practice - Create Button\obj\Debug\W05 - Practice - Create Button.csproj.GenerateResource.cache
+D:\UC\Semester 2\Application Development\W05 - Practice - Create Button\W05 - Practice - Create Button\obj\Debug\W05 - Practice - Create Button.csproj.CoreCompileInputs.cache
+D:\UC\Semester 2\Application Development\W05 - Practice - Create Button\W05 - Practice - Create Button\obj\Debug\Practice Week 5.exe
+D:\UC\Semester 2\Application Development\W05 - Practice - Create Button\W05 - Practice - Create Button\obj\Debug\Practice Week 5.pdb
