@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\Practice W05\Practice W05\bin\Debug\Practice W05.exe.config
+C:\Users\student\source\repos\Practice W05\Practice W05\bin\Debug\Practice W05.exe
+C:\Users\student\source\repos\Practice W05\Practice W05\bin\Debug\Practice W05.pdb
+C:\Users\student\source\repos\Practice W05\Practice W05\obj\Debug\Practice W05.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Practice W05\Practice W05\obj\Debug\Practice_W05.Form1.resources
+C:\Users\student\source\repos\Practice W05\Practice W05\obj\Debug\Practice_W05.Properties.Resources.resources
+C:\Users\student\source\repos\Practice W05\Practice W05\obj\Debug\Practice W05.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Practice W05\Practice W05\obj\Debug\Practice W05.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Practice W05\Practice W05\obj\Debug\Practice W05.exe
+C:\Users\student\source\repos\Practice W05\Practice W05\obj\Debug\Practice W05.pdb

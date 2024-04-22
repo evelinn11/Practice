@@ -1,0 +1,10 @@
+D:\UC\Semester 2\Application Development\Practice W05\Practice W05\bin\Debug\Practice W05.exe.config
+D:\UC\Semester 2\Application Development\Practice W05\Practice W05\bin\Debug\Practice W05.exe
+D:\UC\Semester 2\Application Development\Practice W05\Practice W05\bin\Debug\Practice W05.pdb
+D:\UC\Semester 2\Application Development\Practice W05\Practice W05\obj\Debug\W05 - Practice - Take Home W04 Solution.csproj.AssemblyReference.cache
+D:\UC\Semester 2\Application Development\Practice W05\Practice W05\obj\Debug\W05___Practice___Take_Home_W04_Solution.Form1.resources
+D:\UC\Semester 2\Application Development\Practice W05\Practice W05\obj\Debug\Practice_W05.Properties.Resources.resources
+D:\UC\Semester 2\Application Development\Practice W05\Practice W05\obj\Debug\W05 - Practice - Take Home W04 Solution.csproj.GenerateResource.cache
+D:\UC\Semester 2\Application Development\Practice W05\Practice W05\obj\Debug\W05 - Practice - Take Home W04 Solution.csproj.CoreCompileInputs.cache
+D:\UC\Semester 2\Application Development\Practice W05\Practice W05\obj\Debug\Practice W05.exe
+D:\UC\Semester 2\Application Development\Practice W05\Practice W05\obj\Debug\Practice W05.pdb
