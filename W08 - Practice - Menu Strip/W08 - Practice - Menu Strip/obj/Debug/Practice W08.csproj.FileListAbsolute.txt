@@ -1,0 +1,11 @@
+D:\UC\Semester 2\Application Development\Practice W08\Practice W08\bin\Debug\Practice W08.exe.config
+D:\UC\Semester 2\Application Development\Practice W08\Practice W08\bin\Debug\Practice W08.exe
+D:\UC\Semester 2\Application Development\Practice W08\Practice W08\bin\Debug\Practice W08.pdb
+D:\UC\Semester 2\Application Development\Practice W08\Practice W08\obj\Debug\Practice W08.csproj.AssemblyReference.cache
+D:\UC\Semester 2\Application Development\Practice W08\Practice W08\obj\Debug\Practice_W08.Form1.resources
+D:\UC\Semester 2\Application Development\Practice W08\Practice W08\obj\Debug\Practice_W08.Properties.Resources.resources
+D:\UC\Semester 2\Application Development\Practice W08\Practice W08\obj\Debug\Practice W08.csproj.GenerateResource.cache
+D:\UC\Semester 2\Application Development\Practice W08\Practice W08\obj\Debug\Practice W08.csproj.CoreCompileInputs.cache
+D:\UC\Semester 2\Application Development\Practice W08\Practice W08\obj\Debug\Practice W08.exe
+D:\UC\Semester 2\Application Development\Practice W08\Practice W08\obj\Debug\Practice W08.pdb
+D:\UC\Semester 2\Application Development\Practice W08\Practice W08\obj\Debug\Practice_W08.Form2.resources
