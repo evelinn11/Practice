@@ -1,0 +1,12 @@
+D:\UC\Semester 2\Application Development\Practice W6\Practice W6\bin\Debug\Practice W6.exe.config
+D:\UC\Semester 2\Application Development\Practice W6\Practice W6\bin\Debug\Practice W6.exe
+D:\UC\Semester 2\Application Development\Practice W6\Practice W6\bin\Debug\Practice W6.pdb
+D:\UC\Semester 2\Application Development\Practice W6\Practice W6\obj\Debug\Practice W6.csproj.AssemblyReference.cache
+D:\UC\Semester 2\Application Development\Practice W6\Practice W6\obj\Debug\Practice_W6.Form1.resources
+D:\UC\Semester 2\Application Development\Practice W6\Practice W6\obj\Debug\Practice_W6.FormKedua.resources
+D:\UC\Semester 2\Application Development\Practice W6\Practice W6\obj\Debug\Practice_W6.Properties.Resources.resources
+D:\UC\Semester 2\Application Development\Practice W6\Practice W6\obj\Debug\Practice W6.csproj.GenerateResource.cache
+D:\UC\Semester 2\Application Development\Practice W6\Practice W6\obj\Debug\Practice W6.csproj.CoreCompileInputs.cache
+D:\UC\Semester 2\Application Development\Practice W6\Practice W6\obj\Debug\Practice W6.exe
+D:\UC\Semester 2\Application Development\Practice W6\Practice W6\obj\Debug\Practice W6.pdb
+D:\UC\Semester 2\Application Development\Practice W6\Practice W6\obj\Debug\Practice_W6.FormRemove.resources
