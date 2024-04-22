@@ -1,0 +1,10 @@
+D:\UC\Semester 2\Application Development\W02 - Practice - Button\W02 - Practice - Button\bin\Debug\W02 - Practice - Button.exe.config
+D:\UC\Semester 2\Application Development\W02 - Practice - Button\W02 - Practice - Button\bin\Debug\W02 - Practice - Button.exe
+D:\UC\Semester 2\Application Development\W02 - Practice - Button\W02 - Practice - Button\bin\Debug\W02 - Practice - Button.pdb
+D:\UC\Semester 2\Application Development\W02 - Practice - Button\W02 - Practice - Button\obj\Debug\W02 - Practice - Button.csproj.AssemblyReference.cache
+D:\UC\Semester 2\Application Development\W02 - Practice - Button\W02 - Practice - Button\obj\Debug\W02___Practice___Button.Form1.resources
+D:\UC\Semester 2\Application Development\W02 - Practice - Button\W02 - Practice - Button\obj\Debug\W02___Practice___Button.Properties.Resources.resources
+D:\UC\Semester 2\Application Development\W02 - Practice - Button\W02 - Practice - Button\obj\Debug\W02 - Practice - Button.csproj.GenerateResource.cache
+D:\UC\Semester 2\Application Development\W02 - Practice - Button\W02 - Practice - Button\obj\Debug\W02 - Practice - Button.csproj.CoreCompileInputs.cache
+D:\UC\Semester 2\Application Development\W02 - Practice - Button\W02 - Practice - Button\obj\Debug\W02 - Practice - Button.exe
+D:\UC\Semester 2\Application Development\W02 - Practice - Button\W02 - Practice - Button\obj\Debug\W02 - Practice - Button.pdb
