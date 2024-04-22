@@ -1,0 +1,10 @@
+D:\UC\Semester 2\Application Development\W08 - Practice - Open File\W08 - Practice - Open File\bin\Debug\Small Practice.exe.config
+D:\UC\Semester 2\Application Development\W08 - Practice - Open File\W08 - Practice - Open File\bin\Debug\Small Practice.exe
+D:\UC\Semester 2\Application Development\W08 - Practice - Open File\W08 - Practice - Open File\bin\Debug\Small Practice.pdb
+D:\UC\Semester 2\Application Development\W08 - Practice - Open File\W08 - Practice - Open File\obj\Debug\W08 - Practice - Open File.csproj.AssemblyReference.cache
+D:\UC\Semester 2\Application Development\W08 - Practice - Open File\W08 - Practice - Open File\obj\Debug\W08___Practice___Open_File.Form1.resources
+D:\UC\Semester 2\Application Development\W08 - Practice - Open File\W08 - Practice - Open File\obj\Debug\Small_Practice.Properties.Resources.resources
+D:\UC\Semester 2\Application Development\W08 - Practice - Open File\W08 - Practice - Open File\obj\Debug\W08 - Practice - Open File.csproj.GenerateResource.cache
+D:\UC\Semester 2\Application Development\W08 - Practice - Open File\W08 - Practice - Open File\obj\Debug\W08 - Practice - Open File.csproj.CoreCompileInputs.cache
+D:\UC\Semester 2\Application Development\W08 - Practice - Open File\W08 - Practice - Open File\obj\Debug\Small Practice.exe
+D:\UC\Semester 2\Application Development\W08 - Practice - Open File\W08 - Practice - Open File\obj\Debug\Small Practice.pdb

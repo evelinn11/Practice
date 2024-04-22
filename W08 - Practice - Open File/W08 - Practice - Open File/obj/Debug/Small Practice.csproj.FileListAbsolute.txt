@@ -1,0 +1,20 @@
+C:\Users\student\source\repos\Small Practice\Small Practice\bin\Debug\Small Practice.exe.config
+C:\Users\student\source\repos\Small Practice\Small Practice\bin\Debug\Small Practice.exe
+C:\Users\student\source\repos\Small Practice\Small Practice\bin\Debug\Small Practice.pdb
+C:\Users\student\source\repos\Small Practice\Small Practice\obj\Debug\Small Practice.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Small Practice\Small Practice\obj\Debug\Small_Practice.Form1.resources
+C:\Users\student\source\repos\Small Practice\Small Practice\obj\Debug\Small_Practice.Properties.Resources.resources
+C:\Users\student\source\repos\Small Practice\Small Practice\obj\Debug\Small Practice.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Small Practice\Small Practice\obj\Debug\Small Practice.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Small Practice\Small Practice\obj\Debug\Small Practice.exe
+C:\Users\student\source\repos\Small Practice\Small Practice\obj\Debug\Small Practice.pdb
+D:\UC\Semester 2\Application Development\Small Practice\Small Practice\bin\Debug\Small Practice.exe.config
+D:\UC\Semester 2\Application Development\Small Practice\Small Practice\bin\Debug\Small Practice.exe
+D:\UC\Semester 2\Application Development\Small Practice\Small Practice\bin\Debug\Small Practice.pdb
+D:\UC\Semester 2\Application Development\Small Practice\Small Practice\obj\Debug\Small Practice.csproj.AssemblyReference.cache
+D:\UC\Semester 2\Application Development\Small Practice\Small Practice\obj\Debug\Small_Practice.Form1.resources
+D:\UC\Semester 2\Application Development\Small Practice\Small Practice\obj\Debug\Small_Practice.Properties.Resources.resources
+D:\UC\Semester 2\Application Development\Small Practice\Small Practice\obj\Debug\Small Practice.csproj.GenerateResource.cache
+D:\UC\Semester 2\Application Development\Small Practice\Small Practice\obj\Debug\Small Practice.csproj.CoreCompileInputs.cache
+D:\UC\Semester 2\Application Development\Small Practice\Small Practice\obj\Debug\Small Practice.exe
+D:\UC\Semester 2\Application Development\Small Practice\Small Practice\obj\Debug\Small Practice.pdb
