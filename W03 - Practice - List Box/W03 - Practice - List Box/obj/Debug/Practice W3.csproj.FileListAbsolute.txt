@@ -1,0 +1,21 @@
+C:\Users\student\source\repos\Practice W3\Practice W3\bin\Debug\Practice W3.exe.config
+C:\Users\student\source\repos\Practice W3\Practice W3\bin\Debug\Practice W3.exe
+C:\Users\student\source\repos\Practice W3\Practice W3\bin\Debug\Practice W3.pdb
+C:\Users\student\source\repos\Practice W3\Practice W3\obj\Debug\Practice W3.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Practice W3\Practice W3\obj\Debug\Practice W3.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\Practice W3\Practice W3\obj\Debug\Practice_W3.Form1.resources
+C:\Users\student\source\repos\Practice W3\Practice W3\obj\Debug\Practice_W3.Properties.Resources.resources
+C:\Users\student\source\repos\Practice W3\Practice W3\obj\Debug\Practice W3.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Practice W3\Practice W3\obj\Debug\Practice W3.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Practice W3\Practice W3\obj\Debug\Practice W3.exe
+C:\Users\student\source\repos\Practice W3\Practice W3\obj\Debug\Practice W3.pdb
+D:\UC\Semester 2\Application Development\Practice W3\Practice W3\bin\Debug\Practice W3.exe.config
+D:\UC\Semester 2\Application Development\Practice W3\Practice W3\bin\Debug\Practice W3.exe
+D:\UC\Semester 2\Application Development\Practice W3\Practice W3\bin\Debug\Practice W3.pdb
+D:\UC\Semester 2\Application Development\Practice W3\Practice W3\obj\Debug\Practice W3.csproj.AssemblyReference.cache
+D:\UC\Semester 2\Application Development\Practice W3\Practice W3\obj\Debug\Practice_W3.Form1.resources
+D:\UC\Semester 2\Application Development\Practice W3\Practice W3\obj\Debug\Practice_W3.Properties.Resources.resources
+D:\UC\Semester 2\Application Development\Practice W3\Practice W3\obj\Debug\Practice W3.csproj.GenerateResource.cache
+D:\UC\Semester 2\Application Development\Practice W3\Practice W3\obj\Debug\Practice W3.csproj.CoreCompileInputs.cache
+D:\UC\Semester 2\Application Development\Practice W3\Practice W3\obj\Debug\Practice W3.exe
+D:\UC\Semester 2\Application Development\Practice W3\Practice W3\obj\Debug\Practice W3.pdb
