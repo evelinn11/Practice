@@ -1,0 +1,23 @@
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\bin\Debug\W09 - Practice - Connect To MySQL.exe.config
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\bin\Debug\W09 - Practice - Connect To MySQL.exe
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\bin\Debug\W09 - Practice - Connect To MySQL.pdb
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\bin\Debug\MySql.Data.dll
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\bin\Debug\Google.Protobuf.dll
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\bin\Debug\ZstdNet.dll
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\bin\Debug\System.Buffers.dll
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\bin\Debug\MySql.Data.xml
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\obj\Debug\W09 - Practice - Connect To MySQL.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\obj\Debug\W09 - Practice - Connect To MySQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\obj\Debug\W09 - Practice - Connect To MySQL.exe.config
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\obj\Debug\W09___Practice___Connect_To_MySQL.Form1.resources
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\obj\Debug\W09___Practice___Connect_To_MySQL.Properties.Resources.resources
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\obj\Debug\W09 - Practice - Connect To MySQL.csproj.GenerateResource.cache
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\obj\Debug\W09 - Practice - Connect To MySQL.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\obj\Debug\W09 - Pr.1F97480A.Up2Date
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\obj\Debug\W09 - Practice - Connect To MySQL.exe
+C:\Users\student\source\repos\W09 - Practice - Connect To MySQL\W09 - Practice - Connect To MySQL\obj\Debug\W09 - Practice - Connect To MySQL.pdb
