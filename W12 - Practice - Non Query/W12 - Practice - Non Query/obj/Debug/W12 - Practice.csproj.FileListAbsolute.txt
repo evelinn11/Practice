@@ -1,0 +1,23 @@
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\bin\Debug\W12 - Practice.exe.config
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\bin\Debug\W12 - Practice.exe
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\bin\Debug\W12 - Practice.pdb
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\bin\Debug\MySql.Data.dll
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\bin\Debug\Google.Protobuf.dll
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\bin\Debug\ZstdNet.dll
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\bin\Debug\System.Buffers.dll
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\bin\Debug\MySql.Data.xml
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\obj\Debug\W12 - Practice.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\obj\Debug\W12 - Practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\obj\Debug\W12 - Practice.exe.config
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\obj\Debug\W12___Practice.Form1.resources
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\obj\Debug\W12___Practice.Properties.Resources.resources
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\obj\Debug\W12 - Practice.csproj.GenerateResource.cache
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\obj\Debug\W12 - Practice.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\obj\Debug\W12 - Pr.BE6DEC63.Up2Date
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\obj\Debug\W12 - Practice.exe
+C:\Users\student\source\repos\W12 - Practice\W12 - Practice\obj\Debug\W12 - Practice.pdb
